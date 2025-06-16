@@ -43,81 +43,80 @@
   <main class="main">
 
 
-<!-- Hero Section -->
-<section id="hero" class="hero section">
+    <!-- Hero Section -->
+      <section id="hero" class="hero section">
 
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-    <div class="row align-items-center mb-5">
-      <div class="col-lg-6 mb-4 mb-lg-0">
-        <div class="badge-wrapper mb-3">
-          <div class="d-inline-flex align-items-center rounded-pill border border-accent-light">
-            <div class="icon-circle me-2">
-              <i class="bi bi-lightning-charge-fill"></i>
+          <div class="row align-items-center mb-5">
+            <div class="col-lg-6 mb-4 mb-lg-0">
+              <div class="badge-wrapper mb-3">
+                <div class="d-inline-flex align-items-center rounded-pill border border-accent-light">
+                  <div class="icon-circle me-2">
+                    <i class="bi bi-lightning-charge-fill"></i>
+                  </div>
+                  <span class="badge-text me-3">手机零件 · 极速送达 · 全马覆盖</span>
+                </div>
+              </div>
+
+              <h1 class="hero-title mb-4">马来西亚领先手机零件批发平台</h1>
+
+              <p class="hero-description mb-4">我们专注于高品质LCD、电池、排线、后盖等内配件批发，四大分店快速发货，维修门市最快30分钟即可收到货，助力您高效维修，提升客户满意度。</p>
+
+              <div class="cta-wrapper">
+                <a href="https://wa.me/60102899611?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." class="btn btn-primary">立即联系</a>
+              </div>
             </div>
-            <span class="badge-text me-3">手机零件 · 极速送达 · 全马覆盖</span>
+
+            <div class="col-lg-6">
+              <div class="hero-image">
+                <img src="assets/img/illustration/illustration-16.webp" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
+              </div>
+            </div>
           </div>
+
+          <div class="row feature-boxes">
+            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+              <div class="feature-box">
+                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                  <i class="bi bi-truck"></i>
+                </div>
+                <div class="feature-content">
+                  <h3 class="feature-title">快速发货</h3>
+                  <p class="feature-text">四大门市支持就近取货，维修员最快30分钟可收到所需零件。</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+              <div class="feature-box">
+                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                  <i class="bi bi-phone"></i>
+                </div>
+                <div class="feature-content">
+                  <h3 class="feature-title">全品牌配件</h3>
+                  <p class="feature-text">涵盖 iPhone、Samsung、Xiaomi、Huawei 等热门品牌全系列机型。</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="feature-box">
+                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                  <i class="bi bi-award"></i>
+                </div>
+                <div class="feature-content">
+                  <h3 class="feature-title">稳定高品质</h3>
+                  <p class="feature-text">与中国知名品牌Kupei合作，精选中高端品质，客户信心保障。</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
-        <h1 class="hero-title mb-4">马来西亚领先手机零件批发平台</h1>
-
-        <p class="hero-description mb-4">我们专注于高品质LCD、电池、排线、后盖等内配件批发，四大分店快速发货，维修门市最快30分钟即可收到货，助力您高效维修，提升客户满意度。</p>
-
-        <div class="cta-wrapper">
-          <a href="https://wa.me/60102899611?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." class="btn btn-primary">立即联系</a>
-        </div>
-      </div>
-
-      <div class="col-lg-6">
-        <div class="hero-image">
-          <img src="assets/img/illustration/illustration-16.webp" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-    </div>
-
-    <div class="row feature-boxes text-center">
-      <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-        <div class="feature-box">
-          <div class="feature-icon mb-2">
-            <i class="bi bi-phone fs-2"></i>
-          </div>
-          <div class="feature-content">
-            <h3 class="purecounter feature-title" data-purecounter-start="0" data-purecounter-end="58000" data-purecounter-duration="2">0</h3>
-            <p class="feature-text">累计出货 LCD/电池（件）</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-        <div class="feature-box">
-          <div class="feature-icon mb-2">
-            <i class="bi bi-emoji-smile fs-2"></i>
-          </div>
-          <div class="feature-content">
-            <h3 class="purecounter feature-title" data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="2">0</h3>
-            <p class="feature-text">长期合作维修商（家）</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
-        <div class="feature-box">
-          <div class="feature-icon mb-2">
-            <i class="bi bi-shop fs-2"></i>
-          </div>
-          <div class="feature-content">
-            <h3 class="purecounter feature-title" data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="2">0</h3>
-            <p class="feature-text">运营中的分店数量</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </div>
-
-</section>
-<!-- /Hero Section -->
-
+      </section>
+    <!-- /Hero Section -->
 
     <!-- About Section -->
       <section id="about" class="about section">
@@ -412,6 +411,11 @@
         </div>
       </section>
     <!-- /Stats Section -->
+
+
+
+
+
 
     <!-- Team Section -->
     <section id="team" class="team section light-background">
@@ -771,94 +775,7 @@
     </section>
     <!-- /Contact Section -->
 
-        <!-- Faq Section -->
-    <section id="faq" class="faq section">
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-5">
-          <div class="col-lg-6" data-aos="zoom-out" data-aos-delay="200">
-            <div class="faq-contact-card">
-              <div class="card-icon">
-                <i class="bi bi-question-circle"></i>
-              </div>
-              <div class="card-content">
-                <h3>Still Have Questions?</h3>
-                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum.</p>
-                <div class="contact-options">
-                  <a href="#" class="contact-option">
-                    <i class="bi bi-envelope"></i>
-                    <span>Email Support</span>
-                  </a>
-                  <a href="#" class="contact-option">
-                    <i class="bi bi-chat-dots"></i>
-                    <span>Live Chat</span>
-                  </a>
-                  <a href="#" class="contact-option">
-                    <i class="bi bi-telephone"></i>
-                    <span>Call Us</span>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="faq-accordion">
-              <div class="faq-item faq-active">
-                <div class="faq-header">
-                  <h3>Vivamus suscipit tortor eget felis porttitor volutpat?</h3>
-                  <i class="bi bi-chevron-down faq-toggle"></i>
-                </div>
-                <div class="faq-content">
-                  <p>
-                    Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur aliquet quam id dui posuere blandit. Nulla porttitor accumsan tincidunt.
-                  </p>
-                </div>
-              </div><!-- End FAQ Item-->
-
-              <div class="faq-item" data-aos="zoom-in" data-aos-delay="200">
-                <div class="faq-header">
-                  <h3>Curabitur aliquet quam id dui posuere blandit?</h3>
-                  <i class="bi bi-chevron-down faq-toggle"></i>
-                </div>
-                <div class="faq-content">
-                  <p>
-                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar.
-                  </p>
-                </div>
-              </div><!-- End FAQ Item-->
-
-              <div class="faq-item">
-                <div class="faq-header">
-                  <h3>Sed porttitor lectus nibh ullamcorper sit amet?</h3>
-                  <i class="bi bi-chevron-down faq-toggle"></i>
-                </div>
-                <div class="faq-content">
-                  <p>
-                    Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum.
-                  </p>
-                </div>
-              </div><!-- End FAQ Item-->
-
-              <div class="faq-item">
-                <div class="faq-header">
-                  <h3>Nulla quis lorem ut libero malesuada feugiat?</h3>
-                  <i class="bi bi-chevron-down faq-toggle"></i>
-                </div>
-                <div class="faq-content">
-                  <p>
-                    Donec sollicitudin molestie malesuada. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel.
-                  </p>
-                </div>
-              </div><!-- End FAQ Item-->
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </section><!-- /Faq Section -->
+    
 
   </main>
 
@@ -882,7 +799,6 @@
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/purecounterjs@1.5.0/dist/purecounter_vanilla.js"></script>
-
 
 
 </body>
