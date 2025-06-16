@@ -119,39 +119,39 @@
     <!-- /Hero Section -->
 
     <!-- About Section -->
-    <section id="about" class="about section">
+      <section id="about" class="about section">
 
-      <div class="container">
+        <div class="container">
 
-        <div class="row gy-4">
+          <div class="row gy-4">
 
-          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-            <p class="who-we-are">Who We Are</p>
-            <h3>Unleashing Potential with Creative Strategy</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
-            </ul>
-            <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-          </div>
+            <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+              <p class="who-we-are">关于我们</p>
+              <h3>从零件批发走向全国分店的发展之路</h3>
+              <p class="fst-italic">
+                VVINZ TOP CELLSPARE S/B 于2014年成立，专注于手机内配件批发，凭借稳定品质与快速服务，在行业中建立了广泛信任与合作基础。
+              </p>
+              <ul>
+                <li><i class="bi bi-check-circle"></i> <span>四家分店（Sungai Buloh、Rawang、Subang、Kepong）提供就近配送。</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>支持 iPhone、Samsung、Huawei、Xiaomi 等主流品牌全系列机型。</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>30分钟极速送达，保障维修门市效率，客户满意度显著提升。</span></li>
+              </ul>
+              <a href="#" class="read-more"><span>了解更多</span><i class="bi bi-arrow-right"></i></a>
+            </div>
 
-          <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
-            <div class="row gy-4">
-              <div class="col-lg-6">
-                <img src="assets/img/about/about-portrait-1.webp" class="img-fluid" alt="">
-              </div>
-              <div class="col-lg-6">
-                <div class="row gy-4">
-                  <div class="col-lg-12">
-                    <img src="assets/img/about/about-8.webp" class="img-fluid" alt="">
-                  </div>
-                  <div class="col-lg-12">
-                    <img src="assets/img/about/about-12.webp" class="img-fluid" alt="">
+            <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
+              <div class="row gy-4">
+                <div class="col-lg-6">
+                  <img src="assets/img/about/about-portrait-1.webp" class="img-fluid" alt="">
+                </div>
+                <div class="col-lg-6">
+                  <div class="row gy-4">
+                    <div class="col-lg-12">
+                      <img src="assets/img/about/about-8.webp" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-12">
+                      <img src="assets/img/about/about-12.webp" class="img-fluid" alt="">
+                    </div>
                   </div>
                 </div>
               </div>
@@ -160,205 +160,209 @@
           </div>
 
         </div>
+      </section>
+    <!-- /About Section -->
 
-      </div>
-    </section><!-- /About Section -->
 
     <!-- How We Work Section -->
-    <section id="how-we-work" class="how-we-work section">
+      <section id="how-we-work" class="how-we-work section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>How We Work</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <h2>我们的运作流程</h2>
+          <p>从下单到送达，我们专注于每一步为维修门市提供最及时高效的支持</p>
+        </div><!-- End Section Title -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="steps-5">
-          <div class="process-container">
+          <div class="steps-5">
+            <div class="process-container">
 
-            <div class="process-item" data-aos="fade-up" data-aos-delay="200">
-              <div class="content">
-                <span class="step-number">01</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-pencil-square"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Project Planning</h3>
-                    <p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End Process Item -->
-
-            <div class="process-item" data-aos="fade-up" data-aos-delay="300">
-              <div class="content">
-                <span class="step-number">02</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-gear"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Development Phase</h3>
-                    <p>Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus.</p>
+              <div class="process-item" data-aos="fade-up" data-aos-delay="200">
+                <div class="content">
+                  <span class="step-number">01</span>
+                  <div class="card-body">
+                    <div class="step-icon">
+                      <i class="bi bi-pencil-square"></i>
+                    </div>
+                    <div class="step-content">
+                      <h3>客户下单</h3>
+                      <p>维修商通过WhatsApp或电话下单，提供所需配件型号与数量。</p>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div><!-- End Process Item -->
+              </div><!-- End Process Item -->
 
-            <div class="process-item" data-aos="fade-up" data-aos-delay="400">
-              <div class="content">
-                <span class="step-number">03</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-search"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Testing &amp; QA</h3>
-                    <p>Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero.</p>
+              <div class="process-item" data-aos="fade-up" data-aos-delay="300">
+                <div class="content">
+                  <span class="step-number">02</span>
+                  <div class="card-body">
+                    <div class="step-icon">
+                      <i class="bi bi-gear"></i>
+                    </div>
+                    <div class="step-content">
+                      <h3>门市备货</h3>
+                      <p>由最靠近客户的分店快速备货，确保零件符合客户要求与品质标准。</p>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div><!-- End Process Item -->
+              </div><!-- End Process Item -->
 
-            <div class="process-item" data-aos="fade-up" data-aos-delay="500">
-              <div class="content">
-                <span class="step-number">04</span>
-                <div class="card-body">
-                  <div class="step-icon">
-                    <i class="bi bi-rocket-takeoff"></i>
-                  </div>
-                  <div class="step-content">
-                    <h3>Launch &amp; Support</h3>
-                    <p>Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt.</p>
+              <div class="process-item" data-aos="fade-up" data-aos-delay="400">
+                <div class="content">
+                  <span class="step-number">03</span>
+                  <div class="card-body">
+                    <div class="step-icon">
+                      <i class="bi bi-search"></i>
+                    </div>
+                    <div class="step-content">
+                      <h3>核对与包装</h3>
+                      <p>经过仓管人员逐一核实配件与订单，进行安全包装，避免运输损坏。</p>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div><!-- End Process Item -->
+              </div><!-- End Process Item -->
 
+              <div class="process-item" data-aos="fade-up" data-aos-delay="500">
+                <div class="content">
+                  <span class="step-number">04</span>
+                  <div class="card-body">
+                    <div class="step-icon">
+                      <i class="bi bi-rocket-takeoff"></i>
+                    </div>
+                    <div class="step-content">
+                      <h3>快速配送</h3>
+                      <p>由我们的配送团队或合作快送员立即出发，最快30分钟内送达客户手中。</p>
+                    </div>
+                  </div>
+                </div>
+              </div><!-- End Process Item -->
+
+            </div>
           </div>
+
         </div>
 
-      </div>
+      </section>
+    <!-- /How We Work Section -->
 
-    </section><!-- /How We Work Section -->
 
     <!-- Services Section -->
-    <section id="services" class="services section">
+      <section id="services" class="services section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <h2>我们的服务</h2>
+          <p>我们致力于为全马手机维修商提供稳定、快速、优质的手机内配批发服务</p>
+        </div><!-- End Section Title -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="row justify-content-center g-5">
+          <div class="row justify-content-center g-5">
 
-          <div class="col-md-6" data-aos="fade-right" data-aos-delay="100">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-code-slash"></i>
+            <div class="col-md-6" data-aos="fade-right" data-aos-delay="100">
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="bi bi-box-seam"></i>
+                </div>
+                <div class="service-content">
+                  <h3>手机内配批发</h3>
+                  <p>我们专注于LCD屏幕、电池、排线、壳体等中高端手机内配件批发，涵盖所有主流品牌与型号。</p>
+                  <a href="#" class="service-link">
+                    <span>了解更多</span>
+                    <i class="bi bi-arrow-right"></i>
+                  </a>
+                </div>
               </div>
-              <div class="service-content">
-                <h3>Custom Web Development</h3>
-                <p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+            </div><!-- End Service Item -->
 
-          <div class="col-md-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-phone-fill"></i>
+            <div class="col-md-6" data-aos="fade-left" data-aos-delay="100">
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="bi bi-clock-history"></i>
+                </div>
+                <div class="service-content">
+                  <h3>30分钟快速发货</h3>
+                  <p>四大分店就近安排配送，维修商最快30分钟即可收到货物，大幅提升维修效率。</p>
+                  <a href="#" class="service-link">
+                    <span>了解更多</span>
+                    <i class="bi bi-arrow-right"></i>
+                  </a>
+                </div>
               </div>
-              <div class="service-content">
-                <h3>Mobile App Solutions</h3>
-                <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus magna justo, lacinia eget consectetur sed. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec rutrum congue leo eget malesuada.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+            </div><!-- End Service Item -->
 
-          <div class="col-md-6" data-aos="fade-right" data-aos-delay="200">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-palette2"></i>
+            <div class="col-md-6" data-aos="fade-right" data-aos-delay="200">
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="bi bi-battery-charging"></i>
+                </div>
+                <div class="service-content">
+                  <h3>授权品牌合作</h3>
+                  <p>与中国知名电池品牌Kupei深度合作，提供更稳定耐用的产品，赢得维修商信任。</p>
+                  <a href="#" class="service-link">
+                    <span>了解更多</span>
+                    <i class="bi bi-arrow-right"></i>
+                  </a>
+                </div>
               </div>
-              <div class="service-content">
-                <h3>UI/UX Design</h3>
-                <p>Pellentesque in ipsum id orci porta dapibus. Proin eget tortor risus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+            </div><!-- End Service Item -->
 
-          <div class="col-md-6" data-aos="fade-left" data-aos-delay="200">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-bar-chart-line"></i>
+            <div class="col-md-6" data-aos="fade-left" data-aos-delay="200">
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="bi bi-shop"></i>
+                </div>
+                <div class="service-content">
+                  <h3>多平台销售布局</h3>
+                  <p>正在拓展Shopee、Lazada、TikTok、小红书等线上平台，让客户随时随地都能订购。</p>
+                  <a href="#" class="service-link">
+                    <span>了解更多</span>
+                    <i class="bi bi-arrow-right"></i>
+                  </a>
+                </div>
               </div>
-              <div class="service-content">
-                <h3>Digital Marketing</h3>
-                <p>Donec rutrum congue leo eget malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+            </div><!-- End Service Item -->
 
-          <div class="col-md-6" data-aos="fade-right" data-aos-delay="300">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-cloud-check"></i>
+            <div class="col-md-6" data-aos="fade-right" data-aos-delay="300">
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="bi bi-geo-alt-fill"></i>
+                </div>
+                <div class="service-content">
+                  <h3>分店覆盖全马</h3>
+                  <p>目前已有Sungai Buloh、Rawang、Subang、Kepong等门市，并计划拓展至更多州属与城市。</p>
+                  <a href="#" class="service-link">
+                    <span>了解更多</span>
+                    <i class="bi bi-arrow-right"></i>
+                  </a>
+                </div>
               </div>
-              <div class="service-content">
-                <h3>Cloud Computing</h3>
-                <p>Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+            </div><!-- End Service Item -->
 
-          <div class="col-md-6" data-aos="fade-left" data-aos-delay="300">
-            <div class="service-item">
-              <div class="service-icon">
-                <i class="bi bi-shield-lock"></i>
+            <div class="col-md-6" data-aos="fade-left" data-aos-delay="300">
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="bi bi-people-fill"></i>
+                </div>
+                <div class="service-content">
+                  <h3>维修商长期配合</h3>
+                  <p>KL与雪隆区超过300家维修店为我们长期客户，持续提供稳定配货与售后支援。</p>
+                  <a href="#" class="service-link">
+                    <span>了解更多</span>
+                    <i class="bi bi-arrow-right"></i>
+                  </a>
+                </div>
               </div>
-              <div class="service-content">
-                <h3>Cybersecurity Solutions</h3>
-                <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Donec sollicitudin molestie malesuada. Curabitur arcu erat, accumsan id imperdiet et. Proin eget tortor risus.</p>
-                <a href="#" class="service-link">
-                  <span>Learn More</span>
-                  <i class="bi bi-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+            </div><!-- End Service Item -->
+
+          </div>
 
         </div>
 
-      </div>
+      </section>
+    <!-- /Services Section -->
 
-    </section><!-- /Services Section -->
 
     <!-- Services Alt Section -->
     <section id="services-alt" class="services-alt section">
