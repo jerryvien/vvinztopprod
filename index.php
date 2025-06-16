@@ -363,6 +363,63 @@
       </section>
     <!-- /Services Section -->
 
+    <!-- Stats Section -->
+      <section id="stats" class="stats section">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+          <div class="row gy-4 align-items-center justify-content-between">
+            <div class="col-lg-5">
+              <img src="assets/img/stats-img.jpg" alt="VVINZ TOP Stats" class="img-fluid">
+            </div>
+            <div class="col-lg-6">
+              <h3 class="fw-bold fs-2 mb-3">不断扩展的专业批发网络</h3>
+              <p>
+                多年来，我们专注于手机内配件批发，凭借稳定供货、高效发货与客户信任，建立了强大的维修商合作网络。
+              </p>
+              <div class="row gy-4">
+                <div class="col-lg-6">
+                  <div class="stats-item d-flex">
+                    <i class="bi bi-emoji-smile flex-shrink-0"></i>
+                    <div>
+                      <span data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1" class="purecounter"></span>
+                      <p><strong>固定客户</strong> 维修商长期配合</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="stats-item d-flex">
+                    <i class="bi bi-shop flex-shrink-0"></i>
+                    <div>
+                      <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1" class="purecounter"></span>
+                      <p><strong>门市据点</strong> 方便快速取货</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="stats-item d-flex">
+                    <i class="bi bi-stopwatch flex-shrink-0"></i>
+                    <div>
+                      <span data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1" class="purecounter"></span>
+                      <p><strong>分钟内发货</strong> 提升维修效率</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="stats-item d-flex">
+                    <i class="bi bi-battery-charging flex-shrink-0"></i>
+                    <div>
+                      <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+                      <p><strong>品牌合作</strong> 授权代理Kupei电池</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    <!-- /Stats Section -->
+
+
 
     <!-- Services Alt Section -->
     <section id="services-alt" class="services-alt section">
