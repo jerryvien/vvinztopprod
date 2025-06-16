@@ -17,22 +17,39 @@
   --nav-font: "Raleway",  sans-serif;
 }
 
-:root { 
+:root {
   /* Global Colors */
-  --background-color: #f9f9f6;           /* Milky white with a warm tone */
-  --default-color: #444444;              /* Soft black for body text */
-  --heading-color: #151515;              /* Deep black for headings */
-  --accent-color: #ffc451;               /* Elegant gold for CTAs, links, highlights */
-  --surface-color: #ffffff;              /* White for card backgrounds etc. */
-  --contrast-color: #312f2f;             /* Deep brown-black for contrast (dark buttons etc.) */
+  --background-color: #1e1e1e;           /* Charcoal dark grey */
+  --default-color: #e0e0e0;              /* Light grey text for readability */
+  --heading-color: #ffffff;              /* White for headings */
+  --accent-color: #ffc451;               /* Elegant gold for highlights */
+  --surface-color: #2a2a2a;              /* Dark surface for cards/boxes */
+  --contrast-color: #ffffff;             /* White for buttons on dark */
 
   /* Nav Menu Colors */
-  --nav-color: #151515;                  /* Dark nav text on white background */
-  --nav-hover-color: #ffc451;            /* Gold hover color */
-  --nav-mobile-background-color: #ffffff; /* Keep mobile nav clean white */
-  --nav-dropdown-background-color: #ffffff; /* Dropdowns blend with header */
-  --nav-dropdown-color: #151515;         /* Black text inside dropdown */
-  --nav-dropdown-hover-color: #ffc451;   /* Gold on hover */
+  --nav-color: #f0f0f0;                  /* Light nav text on dark bg */
+  --nav-hover-color: #ffc451;            /* Gold hover effect */
+  --nav-mobile-background-color: #2a2a2a; /* Slightly lighter for mobile nav */
+  --nav-dropdown-background-color: #2a2a2a;
+  --nav-dropdown-color: #f0f0f0;
+  --nav-dropdown-hover-color: #ffc451;
+}
+
+.btn {
+  background-color: var(--accent-color);
+  color: var(--contrast-color);
+  border: none;
+}
+
+.btn:hover {
+  background-color: #e6b800;
+  color: #000;
+}
+
+.card {
+  background-color: var(--surface-color);
+  color: var(--default-color);
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 
