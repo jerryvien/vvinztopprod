@@ -335,7 +335,7 @@
             <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="100">
               <div class="team-card">
                 <div class="team-image">
-                  <img src="assets/img/branches/sungai-buloh.webp" class="img-fluid" alt="Sungai Buloh Branch">
+                  <img src="assets/img/branches/sungai-buloh.jpg" class="img-fluid" alt="Sungai Buloh Branch">
                   <div class="team-overlay">
                     <p>创立于2014年，为VVINZ TOP第一家门市，服务Sungai Buloh及周边维修商。</p>
                   </div>
@@ -351,7 +351,7 @@
             <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="200">
               <div class="team-card">
                 <div class="team-image">
-                  <img src="assets/img/branches/rawang.webp" class="img-fluid" alt="Rawang Branch">
+                  <img src="assets/img/branches/rawang.jpg" class="img-fluid" alt="Rawang Branch">
                   <div class="team-overlay">
                     <p>于2022年设立，进一步扩展西北区域市场，提供快速备货与送货服务。</p>
                   </div>
@@ -367,7 +367,7 @@
             <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="300">
               <div class="team-card">
                 <div class="team-image">
-                  <img src="assets/img/branches/subang.webp" class="img-fluid" alt="Subang Branch">
+                  <img src="assets/img/branches/subang.jpg" class="img-fluid" alt="Subang Branch">
                   <div class="team-overlay">
                     <p>Subang门市于2024年开设，面向巴生谷区域提供高效供应链支援。</p>
                   </div>
@@ -383,7 +383,7 @@
             <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="400">
               <div class="team-card">
                 <div class="team-image">
-                  <img src="assets/img/branches/kepong.webp" class="img-fluid" alt="Kepong Branch">
+                  <img src="assets/img/branches/kepong.jpg" class="img-fluid" alt="Kepong Branch">
                   <div class="team-overlay">
                     <p>最新分店，于2025年设立，专注服务吉隆坡核心区域维修商。</p>
                   </div>
