@@ -53,30 +53,6 @@
 }
 
 
-/* Base nav styles */
-.navbar a {
-  color: var(--nav-color);
-  transition: color 0.3s ease;
-}
-
-.navbar a:hover,
-.navbar a.active {
-  color: var(--nav-hover-color);
-  border-bottom: 2px solid var(--nav-hover-color);
-}
-
-/* Dropdown styles */
-.navbar .dropdown ul {
-  background-color: var(--nav-dropdown-background-color);
-}
-
-.navbar .dropdown ul li a {
-  color: var(--nav-dropdown-color);
-}
-
-.navbar .dropdown ul li a:hover {
-  color: var(--nav-dropdown-hover-color);
-}
 
 
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
