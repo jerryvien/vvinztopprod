@@ -36,9 +36,9 @@
   ======================================================== -->
 </head>
 
-<?php include('header.php'); ?>
-
 <body class="index-page">
+
+<?php include('header.php'); ?>
 
   <main class="main">
 
