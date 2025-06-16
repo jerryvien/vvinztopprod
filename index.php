@@ -42,85 +42,81 @@
 
   <main class="main">
 
-  <!-- Hero Section -->
-    <section id="hero" class="hero section" style="background-color: #000000; color: #ffc451;">
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <!-- Hero Section -->
+      <section id="hero" class="hero section">
 
-        <div class="row align-items-center mb-5">
-          <div class="col-lg-6 mb-4 mb-lg-0">
-            <div class="badge-wrapper mb-3">
-              <div class="d-inline-flex align-items-center rounded-pill border border-warning px-3 py-1">
-                <div class="icon-circle me-2 text-warning">
-                  <i class="bi bi-lightning-charge-fill"></i>
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="row align-items-center mb-5">
+            <div class="col-lg-6 mb-4 mb-lg-0">
+              <div class="badge-wrapper mb-3">
+                <div class="d-inline-flex align-items-center rounded-pill border border-accent-light">
+                  <div class="icon-circle me-2">
+                    <i class="bi bi-lightning-charge-fill"></i>
+                  </div>
+                  <span class="badge-text me-3">手机零件 · 极速送达 · 全马覆盖</span>
                 </div>
-                <span class="badge-text me-3 text-warning">快速发货 · 高质量 · 全马覆盖</span>
+              </div>
+
+              <h1 class="hero-title mb-4">马来西亚领先手机零件批发平台</h1>
+
+              <p class="hero-description mb-4">我们专注于高品质LCD、电池、排线、后盖等内配件批发，四大分店快速发货，维修门市最快30分钟即可收到货，助力您高效维修，提升客户满意度。</p>
+
+              <div class="cta-wrapper">
+                <a href="https://wa.me/60102899611?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." class="btn btn-primary">立即联系</a>
               </div>
             </div>
 
-            <h1 class="hero-title mb-4" style="color: #ffc451;">全马手机零件批发 · 极速配送</h1>
-
-            <p class="hero-description mb-4 text-light">
-              我们为全国手机维修商提供高品质LCD、电池、排线、后盖等配件，货源稳定、价格亲民、最快30分钟送达维修门市，全面提升维修效率。
-            </p>
-
-            <div class="cta-wrapper">
-              <a href="https://wa.me/60102899611?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." 
-                class="btn btn-warning text-dark fw-bold">
-                立即联系 · WhatsApp
-              </a>
+            <div class="col-lg-6">
+              <div class="hero-image">
+                <img src="assets/img/illustration/illustration-16.webp" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-6">
-            <div class="hero-image">
-              <img src="assets/img/illustration/mobile-parts-showcase.webp" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
+          <div class="row feature-boxes">
+            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+              <div class="feature-box">
+                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                  <i class="bi bi-truck"></i>
+                </div>
+                <div class="feature-content">
+                  <h3 class="feature-title">快速发货</h3>
+                  <p class="feature-text">四大门市支持就近取货，维修员最快30分钟可收到所需零件。</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+              <div class="feature-box">
+                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                  <i class="bi bi-phone"></i>
+                </div>
+                <div class="feature-content">
+                  <h3 class="feature-title">全品牌配件</h3>
+                  <p class="feature-text">涵盖 iPhone、Samsung、Xiaomi、Huawei 等热门品牌全系列机型。</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="feature-box">
+                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                  <i class="bi bi-award"></i>
+                </div>
+                <div class="feature-content">
+                  <h3 class="feature-title">稳定高品质</h3>
+                  <p class="feature-text">与中国知名品牌Kupei合作，精选中高端品质，客户信心保障。</p>
+                </div>
+              </div>
             </div>
           </div>
+
         </div>
 
-        <div class="row feature-boxes text-light">
-          <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-box bg-dark p-4 rounded shadow-sm h-100">
-              <div class="feature-icon mb-3 text-warning fs-3">
-                <i class="bi bi-truck"></i>
-              </div>
-              <div class="feature-content">
-                <h3 class="feature-title text-warning">30分钟极速送达</h3>
-                <p class="feature-text">四大分店就近发货，确保维修门市最快半小时拿到配件。</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="feature-box bg-dark p-4 rounded shadow-sm h-100">
-              <div class="feature-icon mb-3 text-warning fs-3">
-                <i class="bi bi-phone"></i>
-              </div>
-              <div class="feature-content">
-                <h3 class="feature-title text-warning">多品牌全机型覆盖</h3>
-                <p class="feature-text">涵盖 iPhone、Samsung、Xiaomi、Vivo 等所有主流手机品牌配件。</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
-            <div class="feature-box bg-dark p-4 rounded shadow-sm h-100">
-              <div class="feature-icon mb-3 text-warning fs-3">
-                <i class="bi bi-award"></i>
-              </div>
-              <div class="feature-content">
-                <h3 class="feature-title text-warning">中高端品质保障</h3>
-                <p class="feature-text">合作中国Kupei等一线供应商，确保产品稳定、高性价比。</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-  <!-- /Hero Section -->
-
+      </section>
+    <!-- /Hero Section -->
 
     <!-- About Section -->
     <section id="about" class="about section">
