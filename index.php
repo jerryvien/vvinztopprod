@@ -317,158 +317,90 @@
       </section>
     <!-- /Services Section -->
 
-    <!-- Stats Section -->
-      <section id="stats" class="stats section">
+ 
+
+    <!-- Branches Section -->
+      <section id="branches" class="team section light-background">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <h2>我们的门市</h2>
+          <p>目前我们已在雪隆地区设立四家分店，持续扩展中，目标覆盖全马主要城市</p>
+        </div><!-- End Section Title -->
+
         <div class="container" data-aos="fade-up" data-aos-delay="100">
+          <div class="row g-5">
 
-          <div class="section-title text-center mb-5">
-            <h2>业务数据一览</h2>
-            <p>我们用真实数字，展示VVINZ TOP在批发行业的实力与成长</p>
+            <!-- Branch 1 -->
+            <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="100">
+              <div class="team-card">
+                <div class="team-image">
+                  <img src="assets/img/branches/sungai-buloh.webp" class="img-fluid" alt="Sungai Buloh Branch">
+                  <div class="team-overlay">
+                    <p>创立于2014年，为VVINZ TOP第一家门市，服务Sungai Buloh及周边维修商。</p>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4>Sungai Buloh 门市</h4>
+                  <span class="position">创始门市</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Branch 2 -->
+            <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="200">
+              <div class="team-card">
+                <div class="team-image">
+                  <img src="assets/img/branches/rawang.webp" class="img-fluid" alt="Rawang Branch">
+                  <div class="team-overlay">
+                    <p>于2022年设立，进一步扩展西北区域市场，提供快速备货与送货服务。</p>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4>Rawang 门市</h4>
+                  <span class="position">西北区域据点</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Branch 3 -->
+            <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="300">
+              <div class="team-card">
+                <div class="team-image">
+                  <img src="assets/img/branches/subang.webp" class="img-fluid" alt="Subang Branch">
+                  <div class="team-overlay">
+                    <p>Subang门市于2024年开设，面向巴生谷区域提供高效供应链支援。</p>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4>Subang 门市</h4>
+                  <span class="position">巴生谷配送中心</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Branch 4 -->
+            <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="400">
+              <div class="team-card">
+                <div class="team-image">
+                  <img src="assets/img/branches/kepong.webp" class="img-fluid" alt="Kepong Branch">
+                  <div class="team-overlay">
+                    <p>最新分店，于2025年设立，专注服务吉隆坡核心区域维修商。</p>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4>Kepong 门市</h4>
+                  <span class="position">吉隆坡核心站点</span>
+                </div>
+              </div>
+            </div>
+
           </div>
-
-          <div class="row text-center gy-4">
-
-            <div class="col-md-3 col-6">
-              <div class="stats-item">
-                <i class="bi bi-emoji-smile fs-1 text-warning mb-2"></i>
-                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1"></h4>
-                <p class="mt-2">固定维修商客户</p>
-              </div>
-            </div>
-
-            <div class="col-md-3 col-6">
-              <div class="stats-item">
-                <i class="bi bi-shop fs-1 text-warning mb-2"></i>
-                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1"></h4>
-                <p class="mt-2">分店遍布雪隆</p>
-              </div>
-            </div>
-
-            <div class="col-md-3 col-6">
-              <div class="stats-item">
-                <i class="bi bi-stopwatch fs-1 text-warning mb-2"></i>
-                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1"></h4>
-                <p class="mt-2">分钟极速送达</p>
-              </div>
-            </div>
-
-            <div class="col-md-3 col-6">
-              <div class="stats-item">
-                <i class="bi bi-battery-charging fs-1 text-warning mb-2"></i>
-                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1"></h4>
-                <p class="mt-2">战略品牌合作</p>
-              </div>
-            </div>
-
-          </div>
-
         </div>
+
       </section>
-    <!-- /Stats Section -->
+    <!-- /Branches Section -->
 
-
-    <!-- Team Section -->
-    <section id="team" class="team section light-background">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Team</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row g-5">
-
-          <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="100">
-            <div class="team-card">
-              <div class="team-image">
-                <img src="assets/img/person/person-m-1.webp" class="img-fluid" alt="">
-                <div class="team-overlay">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.</p>
-                  <div class="team-social">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-              <div class="team-content">
-                <h4>Daniel Mitchell</h4>
-                <span class="position">Creative Director</span>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="200">
-            <div class="team-card">
-              <div class="team-image">
-                <img src="assets/img/person/person-f-6.webp" class="img-fluid" alt="">
-                <div class="team-overlay">
-                  <p>Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque. Nunc dignissim risus id metus.</p>
-                  <div class="team-social">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-              <div class="team-content">
-                <h4>Rebecca Taylor</h4>
-                <span class="position">Lead Developer</span>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="300">
-            <div class="team-card">
-              <div class="team-image">
-                <img src="assets/img/person/person-m-6.webp" class="img-fluid" alt="">
-                <div class="team-overlay">
-                  <p>Cras ornare tristique elit. Integer in dui quis est placerat ornare. Phasellus a lacus a risus.</p>
-                  <div class="team-social">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-              <div class="team-content">
-                <h4>Marcus Johnson</h4>
-                <span class="position">UI/UX Designer</span>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="400">
-            <div class="team-card">
-              <div class="team-image">
-                <img src="assets/img/person/person-f-3.webp" class="img-fluid" alt="">
-                <div class="team-overlay">
-                  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-                  <div class="team-social">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-              <div class="team-content">
-                <h4>Jessica Parker</h4>
-                <span class="position">Marketing Strategist</span>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Team Section -->
 
     <!-- Testimonials Section -->
     <section id="testimonials" class="testimonials section">
