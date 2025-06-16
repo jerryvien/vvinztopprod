@@ -366,58 +366,52 @@
     <!-- Stats Section -->
       <section id="stats" class="stats section">
         <div class="container" data-aos="fade-up" data-aos-delay="100">
-          <div class="row gy-4 align-items-center justify-content-between">
-            <div class="col-lg-5">
-              <img src="assets/img/stats-img.jpg" alt="VVINZ TOP Stats" class="img-fluid">
-            </div>
-            <div class="col-lg-6">
-              <h3 class="fw-bold fs-2 mb-3">不断扩展的专业批发网络</h3>
-              <p>
-                多年来，我们专注于手机内配件批发，凭借稳定供货、高效发货与客户信任，建立了强大的维修商合作网络。
-              </p>
-              <div class="row gy-4">
-                <div class="col-lg-6">
-                  <div class="stats-item d-flex">
-                    <i class="bi bi-emoji-smile flex-shrink-0"></i>
-                    <div>
-                      <span data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>固定客户</strong> 维修商长期配合</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-6">
-                  <div class="stats-item d-flex">
-                    <i class="bi bi-shop flex-shrink-0"></i>
-                    <div>
-                      <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>门市据点</strong> 方便快速取货</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-6">
-                  <div class="stats-item d-flex">
-                    <i class="bi bi-stopwatch flex-shrink-0"></i>
-                    <div>
-                      <span data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>分钟内发货</strong> 提升维修效率</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-6">
-                  <div class="stats-item d-flex">
-                    <i class="bi bi-battery-charging flex-shrink-0"></i>
-                    <div>
-                      <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>品牌合作</strong> 授权代理Kupei电池</p>
-                    </div>
-                  </div>
-                </div>
+
+          <div class="section-title text-center mb-5">
+            <h2>业务数据一览</h2>
+            <p>我们用真实数字，展示VVINZ TOP在批发行业的实力与成长</p>
+          </div>
+
+          <div class="row text-center gy-4">
+
+            <div class="col-md-3 col-6">
+              <div class="stats-item">
+                <i class="bi bi-emoji-smile fs-1 text-warning mb-2"></i>
+                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1"></h4>
+                <p class="mt-2">固定维修商客户</p>
               </div>
             </div>
+
+            <div class="col-md-3 col-6">
+              <div class="stats-item">
+                <i class="bi bi-shop fs-1 text-warning mb-2"></i>
+                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1"></h4>
+                <p class="mt-2">分店遍布雪隆</p>
+              </div>
+            </div>
+
+            <div class="col-md-3 col-6">
+              <div class="stats-item">
+                <i class="bi bi-stopwatch fs-1 text-warning mb-2"></i>
+                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1"></h4>
+                <p class="mt-2">分钟极速送达</p>
+              </div>
+            </div>
+
+            <div class="col-md-3 col-6">
+              <div class="stats-item">
+                <i class="bi bi-battery-charging fs-1 text-warning mb-2"></i>
+                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1"></h4>
+                <p class="mt-2">战略品牌合作</p>
+              </div>
+            </div>
+
           </div>
+
         </div>
       </section>
     <!-- /Stats Section -->
+
 
 
 
