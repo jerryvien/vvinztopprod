@@ -403,259 +403,197 @@
 
 
     <!-- Testimonials Section -->
-    <section id="testimonials" class="testimonials section">
+      <section id="testimonials" class="testimonials section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Testimonials</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <h2>客户评价</h2>
+          <p>我们与超过 300 家维修商合作，致力于提供快速、稳定、高品质的配件批发服务</p>
+        </div><!-- End Section Title -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="testimonials-slider swiper init-swiper">
-          <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 800,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": 1,
-              "spaceBetween": 30,
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              },
-              "breakpoints": {
-                "768": {
-                  "slidesPerView": 2
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+          <div class="testimonials-slider swiper init-swiper">
+            <script type="application/json" class="swiper-config">
+              {
+                "loop": true,
+                "speed": 800,
+                "autoplay": { "delay": 5000 },
+                "slidesPerView": 1,
+                "spaceBetween": 30,
+                "pagination": {
+                  "el": ".swiper-pagination",
+                  "type": "bullets",
+                  "clickable": true
                 },
-                "1200": {
-                  "slidesPerView": 3
+                "breakpoints": {
+                  "768": { "slidesPerView": 2 },
+                  "1200": { "slidesPerView": 3 }
                 }
               }
-            }
-          </script>
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div class="testimonial-card">
-                <div class="testimonial-content">
-                  <p>
-                    <i class="bi bi-quote quote-icon"></i>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  </p>
-                </div>
-                <div class="testimonial-profile">
-                  <div class="rating">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                  </div>
-                  <div class="profile-info">
-                    <img src="assets/img/person/person-m-8.webp" alt="Profile Image">
-                    <div>
-                      <h3>Robert Johnson</h3>
-                      <h4>Marketing Director</h4>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
+            </script>
 
-            <div class="swiper-slide">
-              <div class="testimonial-card">
-                <div class="testimonial-content">
-                  <p>
-                    <i class="bi bi-quote quote-icon"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et maecenas aliquam.
-                  </p>
-                </div>
-                <div class="testimonial-profile">
-                  <div class="rating">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                  </div>
-                  <div class="profile-info">
-                    <img src="assets/img/person/person-f-3.webp" alt="Profile Image">
-                    <div>
-                      <h3>Lisa Williams</h3>
-                      <h4>Product Manager</h4>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
+            <div class="swiper-wrapper">
 
-            <div class="swiper-slide">
-              <div class="testimonial-card">
-                <div class="testimonial-content">
-                  <p>
-                    <i class="bi bi-quote quote-icon"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram.
-                  </p>
-                </div>
-                <div class="testimonial-profile">
-                  <div class="rating">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
+              <!-- Testimonial 1 -->
+              <div class="swiper-slide">
+                <div class="testimonial-card">
+                  <div class="testimonial-content">
+                    <p>
+                      <i class="bi bi-quote quote-icon"></i>
+                      配件品质稳定，客户换上后很少再有问题，Kupei 电池更是目前我们首选，值得推荐！
+                    </p>
                   </div>
-                  <div class="profile-info">
-                    <img src="assets/img/person/person-f-10.webp" alt="Profile Image">
-                    <div>
-                      <h3>Emma Parker</h3>
-                      <h4>UX Designer</h4>
+                  <div class="testimonial-profile">
+                    <div class="rating">
+                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                    </div>
+                    <div class="profile-info">
+                      <img src="assets/img/person/person-m-1.webp" alt="Repair Shop Owner">
+                      <div>
+                        <h3>黄先生</h3>
+                        <h4>Subang 手机维修店主</h4>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-card">
-                <div class="testimonial-content">
-                  <p>
-                    <i class="bi bi-quote quote-icon"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit.
-                  </p>
-                </div>
-                <div class="testimonial-profile">
-                  <div class="rating">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
+              <!-- Testimonial 2 -->
+              <div class="swiper-slide">
+                <div class="testimonial-card">
+                  <div class="testimonial-content">
+                    <p>
+                      <i class="bi bi-quote quote-icon"></i>
+                      下单后 30 分钟内就能收到货，完全解决了我们急单处理的问题。Vvinz 是我们的长期合作伙伴。
+                    </p>
                   </div>
-                  <div class="profile-info">
-                    <img src="assets/img/person/person-m-5.webp" alt="Profile Image">
-                    <div>
-                      <h3>David Miller</h3>
-                      <h4>Senior Developer</h4>
+                  <div class="testimonial-profile">
+                    <div class="rating">
+                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                    </div>
+                    <div class="profile-info">
+                      <img src="assets/img/person/person-m-5.webp" alt="Repair Partner">
+                      <div>
+                        <h3>阿隆</h3>
+                        <h4>Kepong 手机维修工程师</h4>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-card">
-                <div class="testimonial-content">
-                  <p>
-                    <i class="bi bi-quote quote-icon"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat.
-                  </p>
-                </div>
-                <div class="testimonial-profile">
-                  <div class="rating">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
+              <!-- Testimonial 3 -->
+              <div class="swiper-slide">
+                <div class="testimonial-card">
+                  <div class="testimonial-content">
+                    <p>
+                      <i class="bi bi-quote quote-icon"></i>
+                      不只是货快、客服也很贴心，任何技术问题都能帮忙分析，是值得信赖的配件供应商。
+                    </p>
                   </div>
-                  <div class="profile-info">
-                    <img src="assets/img/person/person-m-2.webp" alt="Profile Image">
-                    <div>
-                      <h3>Michael Davis</h3>
-                      <h4>CEO &amp; Founder</h4>
+                  <div class="testimonial-profile">
+                    <div class="rating">
+                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                    </div>
+                    <div class="profile-info">
+                      <img src="assets/img/person/person-f-3.webp" alt="Client Image">
+                      <div>
+                        <h3>李小姐</h3>
+                        <h4>Rawang 修机配件采购员</h4>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-card">
-                <div class="testimonial-content">
-                  <p>
-                    <i class="bi bi-quote quote-icon"></i>
-                    Eius ipsam praesentium dolor quaerat inventore rerum odio. Quos laudantium adipisci eius. Accusamus qui iste cupiditate sed temporibus est aspernatur.
-                  </p>
-                </div>
-                <div class="testimonial-profile">
-                  <div class="rating">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
+              <!-- Testimonial 4 -->
+              <div class="swiper-slide">
+                <div class="testimonial-card">
+                  <div class="testimonial-content">
+                    <p>
+                      <i class="bi bi-quote quote-icon"></i>
+                      从 LCD 到 housing，每样配件都有库存，真正做到一次性采购，省时又省心。
+                    </p>
                   </div>
-                  <div class="profile-info">
-                    <img src="assets/img/person/person-f-7.webp" alt="Profile Image">
-                    <div>
-                      <h3>Sarah Thompson</h3>
-                      <h4>Art Director</h4>
+                  <div class="testimonial-profile">
+                    <div class="rating">
+                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                    </div>
+                    <div class="profile-info">
+                      <img src="assets/img/person/person-m-3.webp" alt="Client Image">
+                      <div>
+                        <h3>陈老板</h3>
+                        <h4>Setapak 区维修连锁店</h4>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+
+            </div>
+
+            <div class="swiper-pagination"></div>
           </div>
-          <div class="swiper-pagination"></div>
         </div>
+      </section>
+    <!-- /Testimonials Section -->
 
-      </div>
-
-    </section><!-- /Testimonials Section -->
 
     <!-- Contact Section -->
-    <section id="contact" class="contact section">
+      <section id="contact" class="contact section">
 
-    <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div>
-    <!-- End Section Title -->
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <h2>联络我们 Contact</h2>
+          <p>欢迎咨询订货与合作详情，我们四大门市为您快速服务</p>
+        </div>
+        <!-- End Section Title -->
 
-    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="row gy-4 mb-5">
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="info-card">
-              <div class="icon-box">
-                <i class="bi bi-geo-alt"></i>
+          <div class="row gy-4 mb-5">
+            
+            <!-- Address -->
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+              <div class="info-card">
+                <div class="icon-box">
+                  <i class="bi bi-geo-alt"></i>
+                </div>
+                <h3>公司地址</h3>
+                <p>Level 5, Selayang Mall,<br>Jalan SU 9, Taman Selayang Utama,<br>68100 Batu Caves, Selangor</p>
               </div>
-              <h3>Our Address</h3>
-              <p>2847 Rainbow Road, Springfield, IL 62701, USA</p>
             </div>
-          </div>
 
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="info-card">
-              <div class="icon-box">
-                <i class="bi bi-telephone"></i>
+            <!-- Contact Info -->
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+              <div class="info-card">
+                <div class="icon-box">
+                  <i class="bi bi-telephone"></i>
+                </div>
+                <h3>联系方式</h3>
+                <p>
+                  WhatsApp / 电话：<br><a href="https://wa.me/60102899611" target="_blank">+60 10-289 9611</a><br>
+                  电邮：<a href="mailto:support@vvinztop.com">support@vvinztop.com</a>
+                </p>
               </div>
-              <h3>Contact Number</h3>
-              <p>Mobile: +1 (555) 123-4567<br>
-                Email: info@example.com</p>
             </div>
-          </div>
 
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-            <div class="info-card">
-              <div class="icon-box">
-                <i class="bi bi-clock"></i>
+            <!-- Hours -->
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+              <div class="info-card">
+                <div class="icon-box">
+                  <i class="bi bi-clock"></i>
+                </div>
+                <h3>营业时间</h3>
+                <p>星期一至六：9:00AM - 6:00PM<br>星期日：休息</p>
               </div>
-              <h3>Opening Hour</h3>
-              <p>Monday - Saturday: 9:00 - 18:00<br>
-                Sunday: Closed</p>
             </div>
+
           </div>
         </div>
-      </div>
-    </section>
+      </section>
     <!-- /Contact Section -->
+
 
     
 
