@@ -19,7 +19,7 @@
 
 :root { 
   /* Global Colors */
-  --background-color: #ffffff;           /* White background for clean look */
+  --background-color: #f9f9f6;           /* Milky white with a warm tone */
   --default-color: #444444;              /* Soft black for body text */
   --heading-color: #151515;              /* Deep black for headings */
   --accent-color: #ffc451;               /* Elegant gold for CTAs, links, highlights */
