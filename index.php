@@ -43,80 +43,81 @@
   <main class="main">
 
 
-    <!-- Hero Section -->
-      <section id="hero" class="hero section">
+<!-- Hero Section -->
+<section id="hero" class="hero section">
 
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-          <div class="row align-items-center mb-5">
-            <div class="col-lg-6 mb-4 mb-lg-0">
-              <div class="badge-wrapper mb-3">
-                <div class="d-inline-flex align-items-center rounded-pill border border-accent-light">
-                  <div class="icon-circle me-2">
-                    <i class="bi bi-lightning-charge-fill"></i>
-                  </div>
-                  <span class="badge-text me-3">手机零件 · 极速送达 · 全马覆盖</span>
-                </div>
-              </div>
-
-              <h1 class="hero-title mb-4">马来西亚领先手机零件批发平台</h1>
-
-              <p class="hero-description mb-4">我们专注于高品质LCD、电池、排线、后盖等内配件批发，四大分店快速发货，维修门市最快30分钟即可收到货，助力您高效维修，提升客户满意度。</p>
-
-              <div class="cta-wrapper">
-                <a href="https://wa.me/60102899611?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." class="btn btn-primary">立即联系</a>
-              </div>
+    <div class="row align-items-center mb-5">
+      <div class="col-lg-6 mb-4 mb-lg-0">
+        <div class="badge-wrapper mb-3">
+          <div class="d-inline-flex align-items-center rounded-pill border border-accent-light">
+            <div class="icon-circle me-2">
+              <i class="bi bi-lightning-charge-fill"></i>
             </div>
-
-            <div class="col-lg-6">
-              <div class="hero-image">
-                <img src="assets/img/illustration/illustration-16.webp" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
-              </div>
-            </div>
+            <span class="badge-text me-3">手机零件 · 极速送达 · 全马覆盖</span>
           </div>
-
-          <div class="row feature-boxes">
-            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-              <div class="feature-box">
-                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
-                  <i class="bi bi-truck"></i>
-                </div>
-                <div class="feature-content">
-                  <h3 class="feature-title">快速发货</h3>
-                  <p class="feature-text">四大门市支持就近取货，维修员最快30分钟可收到所需零件。</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-              <div class="feature-box">
-                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
-                  <i class="bi bi-phone"></i>
-                </div>
-                <div class="feature-content">
-                  <h3 class="feature-title">全品牌配件</h3>
-                  <p class="feature-text">涵盖 iPhone、Samsung、Xiaomi、Huawei 等热门品牌全系列机型。</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
-              <div class="feature-box">
-                <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
-                  <i class="bi bi-award"></i>
-                </div>
-                <div class="feature-content">
-                  <h3 class="feature-title">稳定高品质</h3>
-                  <p class="feature-text">与中国知名品牌Kupei合作，精选中高端品质，客户信心保障。</p>
-                </div>
-              </div>
-            </div>
-          </div>
-
         </div>
 
-      </section>
-    <!-- /Hero Section -->
+        <h1 class="hero-title mb-4">马来西亚领先手机零件批发平台</h1>
+
+        <p class="hero-description mb-4">我们专注于高品质LCD、电池、排线、后盖等内配件批发，四大分店快速发货，维修门市最快30分钟即可收到货，助力您高效维修，提升客户满意度。</p>
+
+        <div class="cta-wrapper">
+          <a href="https://wa.me/60102899611?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." class="btn btn-primary">立即联系</a>
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <div class="hero-image">
+          <img src="assets/img/illustration/illustration-16.webp" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
+        </div>
+      </div>
+    </div>
+
+    <div class="row feature-boxes text-center">
+      <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+        <div class="feature-box">
+          <div class="feature-icon mb-2">
+            <i class="bi bi-phone fs-2"></i>
+          </div>
+          <div class="feature-content">
+            <h3 class="purecounter feature-title" data-purecounter-start="0" data-purecounter-end="58000" data-purecounter-duration="2">0</h3>
+            <p class="feature-text">累计出货 LCD/电池（件）</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+        <div class="feature-box">
+          <div class="feature-icon mb-2">
+            <i class="bi bi-emoji-smile fs-2"></i>
+          </div>
+          <div class="feature-content">
+            <h3 class="purecounter feature-title" data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="2">0</h3>
+            <p class="feature-text">长期合作维修商（家）</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
+        <div class="feature-box">
+          <div class="feature-icon mb-2">
+            <i class="bi bi-shop fs-2"></i>
+          </div>
+          <div class="feature-content">
+            <h3 class="purecounter feature-title" data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="2">0</h3>
+            <p class="feature-text">运营中的分店数量</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+<!-- /Hero Section -->
+
 
     <!-- About Section -->
       <section id="about" class="about section">
