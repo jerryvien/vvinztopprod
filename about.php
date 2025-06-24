@@ -33,7 +33,11 @@
 <?php include('header.php'); ?>
 
 <main class="main">
-  
+
+  <!-- Hero Section -->
+  <section id="hero" class="hero section">
+    sorry i mean this
+
     <!-- About Section -->
       <section id="about" class="about section">
 
@@ -127,6 +131,10 @@
         </div>
       </section>
     <!-- /Stats Section -->
+
+
+  </section>
+  <!-- /Hero Section -->
 
 </main>
 
