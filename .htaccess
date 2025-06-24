@@ -10,3 +10,8 @@ RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]
 
 # Redirect index to root without showing index.php
 RewriteRule ^index$ / [R=301,L]
+
+# Redirect /index or /index.php to root /
+RewriteCond %{THE_REQUEST} /index(\.php)? [NC]
+RewriteRule ^index(\.php)?$ / [R=301,L]
+# Redirect /index.php to root /
