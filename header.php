@@ -1,7 +1,7 @@
  <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container position-relative d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+      <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
         <h1 class="sitename">Vvinz Top</h1><span>.</span>
@@ -24,7 +24,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-    <a class="btn-getstarted" href="https://wa.me/60102899611?text=Hi%20Navbright%20Team%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20solutions." target="_blank">
+    <a class="btn-getstarted" href="https://wa.me/0176536003?text=Hi%20Navbright%20Team%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20solutions." target="_blank">
         Chat with Us
     </a>
 
