@@ -538,65 +538,6 @@
       </section>
     <!-- /Testimonials Section -->
 
-
-    <!-- Contact Section -->
-      <section id="contact" class="contact section">
-
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-          <h2>联络我们 Contact</h2>
-          <p>欢迎咨询订货与合作详情，我们四大门市为您快速服务</p>
-        </div>
-        <!-- End Section Title -->
-
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-          <div class="row gy-4 mb-5">
-            
-            <!-- Address -->
-            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-              <div class="info-card">
-                <div class="icon-box">
-                  <i class="bi bi-geo-alt"></i>
-                </div>
-                <h3>公司地址</h3>
-                <p>Level 5, Selayang Mall,<br>Jalan SU 9, Taman Selayang Utama,<br>68100 Batu Caves, Selangor</p>
-              </div>
-            </div>
-
-            <!-- Contact Info -->
-            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-              <div class="info-card">
-                <div class="icon-box">
-                  <i class="bi bi-telephone"></i>
-                </div>
-                <h3>联系方式</h3>
-                <p>
-                  WhatsApp / 电话：<br><a href="https://wa.me/60102899611" target="_blank">+60 10-289 9611</a><br>
-                  电邮：<a href="mailto:support@vvinztop.com">support@vvinztop.com</a>
-                </p>
-              </div>
-            </div>
-
-            <!-- Hours -->
-            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-              <div class="info-card">
-                <div class="icon-box">
-                  <i class="bi bi-clock"></i>
-                </div>
-                <h3>营业时间</h3>
-                <p>星期一至六：9:00AM - 6:00PM<br>星期日：休息</p>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </section>
-    <!-- /Contact Section -->
-
-
-    
-
   </main>
 
 <?php include('footer.php'); ?>
