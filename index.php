@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - Invent Bootstrap Template</title>
+  <title>Vvinz Top Cell</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -64,7 +64,7 @@
               <p class="hero-description mb-4">我们专注于高品质LCD、电池、排线、后盖等内配件批发，四大分店快速发货，维修门市最快30分钟即可收到货，助力您高效维修，提升客户满意度。</p>
 
               <div class="cta-wrapper">
-                <a href="https://wa.me/60102899611?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." class="btn btn-primary">立即联系</a>
+                <a href="https://wa.me/60176536003?text=Hi%20VVINZ%20TOP%2C%20I%20want%20to%20inquire%20about%20your%20products." class="btn btn-primary">立即联系</a>
               </div>
             </div>
 
