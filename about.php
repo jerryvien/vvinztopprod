@@ -96,7 +96,12 @@
             <div class="col-md-3 col-6">
               <div class="stats-item">
                 <i class="bi bi-emoji-smile fs-1 text-warning mb-2"></i>
-                <h4 class="purecounter fs-1 fw-bold" data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1"></h4>
+                <h4 class="purecounter fs-1 fw-bold"
+                    data-purecounter-start="0"
+                    data-purecounter-end="300"
+                    data-purecounter-duration="1">
+                </h4>
+
                 <p class="mt-2">固定维修商客户</p>
               </div>
             </div>
@@ -157,6 +162,12 @@
 <!-- Main JS File -->
 <script src="assets/js/main.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/purecounterjs@1.5.0/dist/purecounter_vanilla.js"></script>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new PureCounter();
+  });
 
 </body>
 </html>
