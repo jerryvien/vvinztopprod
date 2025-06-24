@@ -36,7 +36,6 @@
 
   <!-- Hero Section -->
   <section id="hero" class="hero section">
-    sorry i mean this
 
     <!-- About Section -->
       <section id="about" class="about section">
