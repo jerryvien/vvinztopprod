@@ -30,11 +30,11 @@
       <div class="col-lg-2 col-md-3 footer-links">
         <h4>快速导航</h4>
         <ul>
-          <li><a href="index.php">首页</a></li>
-          <li><a href="#about">关于我们</a></li>
+          <li><a href="index">首页</a></li>
+          <li><a href="about">关于我们</a></li>
           <li><a href="#hero">我们的优势</a></li>
           <li><a href="#branches">门市地址</a></li>
-          <li><a href="#contact">联络我们</a></li>
+          <li><a href="contact">联络我们</a></li>
         </ul>
       </div>
 
