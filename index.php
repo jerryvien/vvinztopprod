@@ -70,7 +70,7 @@
 
             <div class="col-lg-6">
               <div class="hero-image">
-                <img src="assets/img/illustration/illustration-16.webp" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
+                <img src="assets/img/logo_vvinz.png" alt="Mobile Parts Wholesale" class="img-fluid" loading="lazy">
               </div>
             </div>
           </div>
