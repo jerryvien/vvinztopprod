@@ -34,6 +34,8 @@
 
 <main class="main">
 
+  <!-- Page Title -->
+  <section id="hero" class="hero section">
 
   <!-- Contact Section -->
   <section id="contact" class="contact section">
